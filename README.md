@@ -1,5 +1,7 @@
 # sophos-utm
 
+![](images/nat-tool.png)
+
 get_fw_nat_rules.py uses the rest API of sophos UTM firewalls to generate a CSV file of the NAT statements present on the firewall.
 
 - common_bits.py contains the authorization token information and common functions used by the other files
