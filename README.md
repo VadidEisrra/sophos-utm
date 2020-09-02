@@ -1,6 +1,6 @@
 # sophos-utm
 
-![](images/sophos-nat.png)
+![](images/sophos-nat.PNG)
 
 get_fw_nat_rules.py uses the rest API of sophos UTM firewalls to generate a CSV file of the NAT statements present on the firewall.
 
